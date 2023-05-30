@@ -24,3 +24,5 @@
 
 # VS CODE 확장프로그램
 ![image](https://github.com/dddd1215/react_basic/assets/129017020/0eedb04e-ee77-48d0-8ef0-cbe1184ebf8c)
+# setting 설정
+![image](https://github.com/dddd1215/react_basic/assets/129017020/1cdeb1bc-f24b-4d0f-ade1-516f0ac6eb78)
