@@ -1,4 +1,4 @@
-# node.js 설치
+# 1. node.js 설치
 ![image](https://github.com/dddd1215/react_basic/assets/129017020/58ed32cd-6b33-4817-a1ca-293db3aea9cb)
 ![image](https://github.com/dddd1215/react_basic/assets/129017020/1ed90047-77f8-4806-992f-32ce5183a5cc)
 
@@ -9,3 +9,10 @@
 * Node.js가 제공하는 것이 npm(Node Package Manager)
 * npm이란 node.js로 만들어진 필요한 모듈을 다운받고 관리해주는 역할, 다른 개발자가 만들어준 유용한 node.js로 만들어진 툴을 가져다가 사용할 수 있다.
 * npm을 이용하여 유용한 라이브러리, 프레임워크를 다운받을 예정
+
+# 2. 폴더 생성
+  * 프로젝트를 만들 폴더를 생성한다.
+# 3. 리액트에 필요한 패키지를 자동으로 설치해주는 명령어를 입력한다.
+  npm create-react-app 폴더명
+  cd 폴더명
+  npm start
