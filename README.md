@@ -17,3 +17,6 @@
      npm create-react-app 폴더명
      cd 폴더명
      npm start
+
+# SPA : single page Application
+ 페이지는 하나인데 여러개인 것 처럼 눈속임을 한다. --> 자바스크립트가 해준다.
