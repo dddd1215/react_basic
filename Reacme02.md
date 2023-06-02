@@ -21,4 +21,6 @@
 # 함수를 밖으로 빼기
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/39e8002d-1dcf-437b-9222-28fc5696605c)
 
-
+# 클릭하면 함수실행(Event Handling)
+ ![image](https://github.com/dddd1215/react_basic/assets/129017020/cf107879-f561-4a0e-b3ff-fd6e17112aab)
+==> 화살표함수로 바뀜
