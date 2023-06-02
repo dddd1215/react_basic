@@ -9,7 +9,8 @@
 # return문은 반드시 하나의 태그로 되어있어야한다
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/e3f8fd62-a259-41f1-9f7c-8c0c813c4681)
 
-# 해결방법  부모태그로 싸주어야한다(<div>) 또는 Fragment로 싸주어야한다.
+# 해결방법  부모태그로 싸주어야한다
+(<div>) 또는 Fragment로 싸주어야한다.
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/fab8b553-3822-4f82-9ea0-30180788ac5d)
   
 # 함수만들기
@@ -24,3 +25,7 @@
 # 클릭하면 함수실행(Event Handling)
  ![image](https://github.com/dddd1215/react_basic/assets/129017020/cf107879-f561-4a0e-b3ff-fd6e17112aab)
 ==> 화살표함수로 바뀜
+
+ # 함수를 밖으로 빼기
+  ![image](https://github.com/dddd1215/react_basic/assets/129017020/45f5ee33-f291-4b4b-ae5e-e0da3727da63)
+
