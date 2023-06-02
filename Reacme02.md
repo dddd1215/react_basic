@@ -10,7 +10,7 @@
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/e3f8fd62-a259-41f1-9f7c-8c0c813c4681)
 
 # 해결방법  부모태그로 싸주어야한다
-(<div>) 또는 Fragment로 싸주어야한다.
+(div) 또는 Fragment로 싸주어야한다
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/fab8b553-3822-4f82-9ea0-30180788ac5d)
   
 # 함수만들기
@@ -29,3 +29,7 @@
  # 함수를 밖으로 빼기
   ![image](https://github.com/dddd1215/react_basic/assets/129017020/45f5ee33-f291-4b4b-ae5e-e0da3727da63)
 
+# 콘솔에는 숫자가 바뀌는데 화면에는 바뀌지 않는다.
+react에서는 변수가 바뀐다해서 리랜더링이 일어나지 않는다
+==> 해결책) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야한다. 
+![image](https://github.com/dddd1215/react_basic/assets/129017020/757e72da-09e0-4a7a-aa52-553559853db2)
