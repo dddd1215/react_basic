@@ -13,3 +13,7 @@
 결과 -
 ![image](https://github.com/dddd1215/react_basic/assets/129017020/141f3416-3963-4eac-964b-66a7f68a7ff2)
 
+
+--중요--
+![image](https://github.com/dddd1215/react_basic/assets/129017020/da195684-e00a-4a5e-904d-66106c66a93e)
+
