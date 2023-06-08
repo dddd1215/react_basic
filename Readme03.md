@@ -17,8 +17,18 @@
 --중요--
 ![image](https://github.com/dddd1215/react_basic/assets/129017020/da195684-e00a-4a5e-904d-66106c66a93e)
 
-# UseEffect
-실행
+# UseEffect-1
+  실행
    ![image](https://github.com/dddd1215/react_basic/assets/129017020/24babed0-b4a8-4178-8df3-2ee3c27f2df2)
-
-![image](https://github.com/dddd1215/react_basic/assets/129017020/5c663686-38aa-4ee8-915d-ca0298d2043d)
+  결과
+  ![image](https://github.com/dddd1215/react_basic/assets/129017020/5c663686-38aa-4ee8-915d-ca0298d2043d)
+# UseEffect-2
+  실행
+   ![image](https://github.com/dddd1215/react_basic/assets/129017020/3170e6f9-98d5-4927-9790-9c127b988252)
+  결과
+   ![image](https://github.com/dddd1215/react_basic/assets/129017020/a015a3a9-34a1-4c7c-9d9f-c4863b70bbc7)
+# UseEffect-3
+  실행
+   ![image](https://github.com/dddd1215/react_basic/assets/129017020/4645b691-96fc-4bce-8672-bc937001fd8f)
+  결과
+   ![image](https://github.com/dddd1215/react_basic/assets/129017020/7005d647-3120-4522-b2ce-48caca58e485)
