@@ -17,3 +17,8 @@
 --중요--
 ![image](https://github.com/dddd1215/react_basic/assets/129017020/da195684-e00a-4a5e-904d-66106c66a93e)
 
+# UseEffect
+실행
+   ![image](https://github.com/dddd1215/react_basic/assets/129017020/24babed0-b4a8-4178-8df3-2ee3c27f2df2)
+
+![image](https://github.com/dddd1215/react_basic/assets/129017020/5c663686-38aa-4ee8-915d-ca0298d2043d)
