@@ -34,3 +34,8 @@
    ![image](https://github.com/dddd1215/react_basic/assets/129017020/7005d647-3120-4522-b2ce-48caca58e485)
 
 # Counter
+  실행
+  ![image](https://github.com/dddd1215/react_basic/assets/129017020/bcff7ba9-1cc4-4338-b63e-59b2c0a660ae)
+  결과
+  ![image](https://github.com/dddd1215/react_basic/assets/129017020/58a9a7a5-a4a1-4a09-866c-76b0dac99c10)
+
